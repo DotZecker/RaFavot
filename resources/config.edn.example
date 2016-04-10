@@ -1,0 +1,4 @@
+{:app-key           "you-app-key"
+ :app-secret        "you-app-secret"
+ :user-token        "you-user-token"
+ :user-token-secret "you-user-token-secret"}
